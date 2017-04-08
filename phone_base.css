@@ -1,0 +1,101 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:  "微软雅黑", Arial, "黑体", Georgia, "Hiragino Keku Gothic Pro";
+}
+
+body{
+	background:#eee;
+}
+
+a{
+   text-decoration: none;
+   color:#333;
+}
+
+
+form p{
+	text-align:center;
+}
+
+dl{
+	border-bottom:1px solid #ccc;
+	margin-bottom:10px;
+}
+
+dl dt{
+	background:url("../images/phone/dian.png") no-repeat left 10px;
+	text-indent:15px;
+	font-weight:bold;
+	line-height:180%;
+}
+
+
+dl dd{
+	text-indent:35px;
+	line-height:180%;
+	color:#666;
+	font-weight: normal;
+}
+
+.nonetp dt{
+	margin:0;
+	padding-top:10px;
+	background:none;
+	line-height:150%;
+	text-indent: 0px;
+	
+}
+.nonetp dd{
+	padding-top:3px;
+	text-indent:15px;
+	color:#999;
+	font-weight: normal;
+	line-height:150%;
+	
+}
+
+.ypmslist h2{
+	background:url("http://xzsp.bjfda.gov.cn/bfdaww/images/phone/jt_7.png") no-repeat left center;
+	text-indent:50px;
+	font-size:20px;
+	color:#2466C6;
+}
+
+
+
+.ypmslist dl dd{
+	text-indent:0px;
+}
+
+
+
+.content{
+	margin:0;
+	padding:10px;
+}
+.content h2{
+	background:url("http://xzsp.bjfda.gov.cn/bfdaww/images/phone/jt_7.png") no-repeat left center;
+	padding-left:50px;
+	font-size:20px;
+	color:#2466C6;
+}
+
+.content ul li{
+	list-style: none;
+	color:#808080;
+	font-size:16px;
+	font-family: "仿宋";
+	line-height:30px;
+}
+
+.content .li_1{
+	color:#333 ;
+	font-size:18px;
+	font-family: "微软雅黑";
+	line-height:40px;
+}
+.content ul li span{
+	color:#666;
+}
+
